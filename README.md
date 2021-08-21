@@ -1,3 +1,2 @@
 # Hello-World
-Bu daha başlangıç
-Bu deneme amaçlıdır.
+Ordinary designer enthusiastic about generative design 
